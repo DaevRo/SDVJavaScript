@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DaevRo/SDVJavaScript/issues"
   },
-  "homepage": "https://github.com/DaevRo/SDVJavaScript#readme"
+  "homepage": "https://github.com/DaevRo/SDVJavaScript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
