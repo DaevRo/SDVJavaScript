@@ -121,5 +121,6 @@
   "bugs": {
     "url": "https://github.com/DaevRo/SDVJavaScript/issues"
   },
-  "homepage": "https://github.com/DaevRo/SDVJavaScript#readme"
+  "homepage": "https://github.com/DaevRo/SDVJavaScript#readme",
+  "devDependencies": {}
 }
