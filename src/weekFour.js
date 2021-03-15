@@ -1,5 +1,5 @@
-Number('123') 
-Number('123') === 123
+x = '1234567'
+console.log(typeof x)
+let y = Number(x)
 
-number('unicorn')
-console.log()
+console.log(typeof y) 
