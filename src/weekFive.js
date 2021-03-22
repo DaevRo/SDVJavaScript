@@ -90,5 +90,21 @@ console.log(y)
 let price = person.student ? 8 : 12
 console.log(price)
 
+// let isStudent = true
+// let isNotStudent = false
 
+// if (isStudent) {
+//     price = 8
+// } else if (isNotStudent) {
+//     price = 6
+// } else {
+//     price = 10
+// }
 
+// let isStudent = true
+// let price = 12;isStudent ? (
+//     price = 8
+//     alert('Please check for student ID')
+// ) : (
+//     alert('Enjoy the movie')
+// );
